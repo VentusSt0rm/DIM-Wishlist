@@ -1,4 +1,4 @@
-title:Ventus PvP
+title:Ventus' Roll Suggestions
 
 // Cantata-57 (pvp)
 //notes: tags:pvp
